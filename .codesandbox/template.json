@@ -1,0 +1,8 @@
+{
+    "title": "FastHTML Server",
+    "description": "This is an example of a FastHTML app",
+    "iconUrl": "https://raw.githubusercontent.com/codesandbox/sandbox-templates/main/python-flask-server/.codesandbox/icon.png",
+    "tags": ["python", "pip", "fasthtml", "http-server", "backend"],
+    "published": false
+  }
+  
